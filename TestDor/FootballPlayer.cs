@@ -12,7 +12,7 @@ namespace TestDor
         public FootballPlayer()
         {
             name = "Kanban";
-            number = 10;
+            number = 3;
         }
     }
 }

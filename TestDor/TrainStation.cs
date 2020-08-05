@@ -12,5 +12,10 @@ namespace TestDor
         {
             _city = "Tivon";
         }
+        public int Distance(int x , int y)
+        {
+            int z = x + y;
+            return z * z;
+        }
     }
 }

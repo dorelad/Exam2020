@@ -6,7 +6,7 @@ namespace TestDor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("nana");
         }
     }
 }

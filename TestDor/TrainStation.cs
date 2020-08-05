@@ -14,5 +14,9 @@ namespace TestDor
             _WorksOnWeekend = worksOnWeekend;
             _lengthOfPlatform = length;
         }
+        public double Diffrence(double OtherStation)
+        {
+            return _lengthOfPlatform - OtherStation;
+        }
     }
 }

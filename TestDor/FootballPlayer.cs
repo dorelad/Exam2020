@@ -6,5 +6,13 @@ namespace TestDor
 {
     class FootballPlayer
     {
+        String name;
+        int number;
+
+        public FootballPlayer()
+        {
+            name = "Kanban";
+            number = 10;
+        }
     }
 }
